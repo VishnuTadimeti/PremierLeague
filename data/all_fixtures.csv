@@ -1,0 +1,381 @@
+DATE,TIME,Home,Away
+8/12/2017,15:00,Arsenal,Leicester
+8/12/2017,15:00,Brighton,Man City
+8/12/2017,15:00,Chelsea,Burnley
+8/12/2017,15:00,Crystal Palace,Huddersfield
+8/12/2017,15:00,Everton,Stoke
+8/12/2017,15:00,Man Utd,West Ham
+8/12/2017,15:00,Newcastle,Tottenham
+8/12/2017,15:00,Southampton,Swansea
+8/12/2017,15:00,Watford,Liverpool
+8/12/2017,15:00,West Brom,Bournemouth
+8/19/2017,15:00,Bournemouth,Watford
+8/19/2017,15:00,Burnley,West Brom
+8/19/2017,15:00,Huddersfield,Newcastle
+8/19/2017,15:00,Leicester,Brighton
+8/19/2017,15:00,Liverpool,Crystal Palace
+8/19/2017,15:00,Man City,Everton
+8/19/2017,15:00,Southampton,West Ham
+8/19/2017,15:00,Stoke,Arsenal
+8/19/2017,15:00,Swansea,Man Utd
+8/19/2017,15:00,Tottenham,Chelsea
+8/26/2017,15:00,Bournemouth,Man City
+8/26/2017,15:00,Chelsea,Everton
+8/26/2017,15:00,Crystal Palace,Swansea
+8/26/2017,15:00,Huddersfield,Southampton
+8/26/2017,15:00,Liverpool,Arsenal
+8/26/2017,15:00,Man Utd,Leicester
+8/26/2017,15:00,Newcastle,West Ham
+8/26/2017,15:00,Tottenham,Burnley
+8/26/2017,15:00,Watford,Brighton
+8/26/2017,15:00,West Brom,Stoke
+9/9/2017,15:00,Arsenal,Bournemouth
+9/9/2017,15:00,Brighton,West Brom
+9/9/2017,15:00,Burnley,Crystal Palace
+9/9/2017,15:00,Everton,Tottenham
+9/9/2017,15:00,Leicester,Chelsea
+9/9/2017,15:00,Man City,Liverpool
+9/9/2017,15:00,Southampton,Watford
+9/9/2017,15:00,Stoke,Man Utd
+9/9/2017,15:00,Swansea,Newcastle
+9/9/2017,15:00,West Ham,Huddersfield
+9/16/2017,15:00,Bournemouth,Brighton
+9/16/2017,15:00,Chelsea,Arsenal
+9/16/2017,15:00,Crystal Palace,Southampton
+9/16/2017,15:00,Huddersfield,Leicester
+9/16/2017,15:00,Liverpool,Burnley
+9/16/2017,15:00,Man Utd,Everton
+9/16/2017,15:00,Newcastle,Stoke
+9/16/2017,15:00,Tottenham,Swansea
+9/16/2017,15:00,Watford,Man City
+9/16/2017,15:00,West Brom,West Ham
+9/23/2017,15:00,Arsenal,West Brom
+9/23/2017,15:00,Brighton,Newcastle
+9/23/2017,15:00,Burnley,Huddersfield
+9/23/2017,15:00,Everton,Bournemouth
+9/23/2017,15:00,Leicester,Liverpool
+9/23/2017,15:00,Man City,Crystal Palace
+9/23/2017,15:00,Southampton,Man Utd
+9/23/2017,15:00,Stoke,Chelsea
+9/23/2017,15:00,Swansea,Watford
+9/23/2017,15:00,West Ham,Tottenham
+9/30/2017,15:00,Arsenal,Brighton
+9/30/2017,15:00,Bournemouth,Leicester
+9/30/2017,15:00,Chelsea,Man City
+9/30/2017,15:00,Everton,Burnley
+9/30/2017,15:00,Huddersfield,Tottenham
+9/30/2017,15:00,Man Utd,Crystal Palace
+9/30/2017,15:00,Newcastle,Liverpool
+9/30/2017,15:00,Stoke,Southampton
+9/30/2017,15:00,West Brom,Watford
+9/30/2017,15:00,West Ham,Swansea
+10/14/2017,15:00,Brighton,Everton
+10/14/2017,15:00,Burnley,West Ham
+10/14/2017,15:00,Crystal Palace,Chelsea
+10/14/2017,15:00,Leicester,West Brom
+10/14/2017,15:00,Liverpool,Man Utd
+10/14/2017,15:00,Man City,Stoke
+10/14/2017,15:00,Southampton,Newcastle
+10/14/2017,15:00,Swansea,Huddersfield
+10/14/2017,15:00,Tottenham,Bournemouth
+10/14/2017,15:00,Watford,Arsenal
+10/21/2017,15:00,Chelsea,Watford
+10/21/2017,15:00,Everton,Arsenal
+10/21/2017,15:00,Huddersfield,Man Utd
+10/21/2017,15:00,Man City,Burnley
+10/21/2017,15:00,Newcastle,Crystal Palace
+10/21/2017,15:00,Southampton,West Brom
+10/21/2017,15:00,Stoke,Bournemouth
+10/21/2017,15:00,Swansea,Leicester
+10/21/2017,15:00,Tottenham,Liverpool
+10/21/2017,15:00,West Ham,Brighton
+10/28/2017,15:00,Arsenal,Swansea
+10/28/2017,15:00,Bournemouth,Chelsea
+10/28/2017,15:00,Brighton,Southampton
+10/28/2017,15:00,Burnley,Newcastle
+10/28/2017,15:00,Crystal Palace,West Ham
+10/28/2017,15:00,Leicester,Everton
+10/28/2017,15:00,Liverpool,Huddersfield
+10/28/2017,15:00,Man Utd,Tottenham
+10/28/2017,15:00,Watford,Stoke
+10/28/2017,15:00,West Brom,Man City
+11/4/2017,15:00,Chelsea,Man Utd
+11/4/2017,15:00,Everton,Watford
+11/4/2017,15:00,Huddersfield,West Brom
+11/4/2017,15:00,Man City,Arsenal
+11/4/2017,15:00,Newcastle,Bournemouth
+11/4/2017,15:00,Southampton,Burnley
+11/4/2017,15:00,Stoke,Leicester
+11/4/2017,15:00,Swansea,Brighton
+11/4/2017,15:00,Tottenham,Crystal Palace
+11/4/2017,15:00,West Ham,Liverpool
+11/18/2017,15:00,Arsenal,Tottenham
+11/18/2017,15:00,Bournemouth,Huddersfield
+11/18/2017,15:00,Brighton,Stoke
+11/18/2017,15:00,Burnley,Swansea
+11/18/2017,15:00,Crystal Palace,Everton
+11/18/2017,15:00,Leicester,Man City
+11/18/2017,15:00,Liverpool,Southampton
+11/18/2017,15:00,Man Utd,Newcastle
+11/18/2017,15:00,Watford,West Ham
+11/18/2017,15:00,West Brom,Chelsea
+11/25/2017,15:00,Burnley,Arsenal
+11/25/2017,15:00,Crystal Palace,Stoke
+11/25/2017,15:00,Huddersfield,Man City
+11/25/2017,15:00,Liverpool,Chelsea
+11/25/2017,15:00,Man Utd,Brighton
+11/25/2017,15:00,Newcastle,Watford
+11/25/2017,15:00,Southampton,Everton
+11/25/2017,15:00,Swansea,Bournemouth
+11/25/2017,15:00,Tottenham,West Brom
+11/25/2017,15:00,West Ham,Leicester
+11/28/2017,19:45,Arsenal,Huddersfield
+11/28/2017,19:45,Bournemouth,Burnley
+11/28/2017,19:45,Brighton,Crystal Palace
+11/28/2017,19:45,Leicester,Tottenham
+11/28/2017,19:45,Watford,Man Utd
+11/28/2017,20:00,West Brom,Newcastle
+11/29/2017,19:45,Chelsea,Swansea
+11/29/2017,19:45,Everton,West Ham
+11/29/2017,20:00,Man City,Southampton
+11/29/2017,20:00,Stoke,Liverpool
+12/2/2017,15:00,Arsenal,Man Utd
+12/2/2017,15:00,Bournemouth,Southampton
+12/2/2017,15:00,Brighton,Liverpool
+12/2/2017,15:00,Chelsea,Newcastle
+12/2/2017,15:00,Everton,Huddersfield
+12/2/2017,15:00,Leicester,Burnley
+12/2/2017,15:00,Man City,West Ham
+12/2/2017,15:00,Stoke,Swansea
+12/2/2017,15:00,Watford,Tottenham
+12/2/2017,15:00,West Brom,Crystal Palace
+12/9/2017,15:00,Burnley,Watford
+12/9/2017,15:00,Crystal Palace,Bournemouth
+12/9/2017,15:00,Huddersfield,Brighton
+12/9/2017,15:00,Liverpool,Everton
+12/9/2017,15:00,Man Utd,Man City
+12/9/2017,15:00,Newcastle,Leicester
+12/9/2017,15:00,Southampton,Arsenal
+12/9/2017,15:00,Swansea,West Brom
+12/9/2017,15:00,Tottenham,Stoke
+12/9/2017,15:00,West Ham,Chelsea
+12/12/2017,19:45,Burnley,Stoke
+12/12/2017,19:45,Huddersfield,Chelsea
+12/12/2017,19:45,Swansea,Man City
+12/12/2017,19:45,West Ham,Arsenal
+12/12/2017,20:00,Crystal Palace,Watford
+12/12/2017,20:00,Man Utd,Bournemouth
+12/13/2017,19:45,Newcastle,Everton
+12/13/2017,19:45,Southampton,Leicester
+12/13/2017,20:00,Liverpool,West Brom
+12/13/2017,20:00,Tottenham,Brighton
+12/16/2017,15:00,Arsenal,Newcastle
+12/16/2017,15:00,Bournemouth,Liverpool
+12/16/2017,15:00,Brighton,Burnley
+12/16/2017,15:00,Chelsea,Southampton
+12/16/2017,15:00,Everton,Swansea
+12/16/2017,15:00,Leicester,Crystal Palace
+12/16/2017,15:00,Man City,Tottenham
+12/16/2017,15:00,Stoke,West Ham
+12/16/2017,15:00,Watford,Huddersfield
+12/16/2017,15:00,West Brom,Man Utd
+12/23/2017,15:00,Arsenal,Liverpool
+12/23/2017,15:00,Brighton,Watford
+12/23/2017,15:00,Burnley,Tottenham
+12/23/2017,15:00,Everton,Chelsea
+12/23/2017,15:00,Leicester,Man Utd
+12/23/2017,15:00,Man City,Bournemouth
+12/23/2017,15:00,Southampton,Huddersfield
+12/23/2017,15:00,Stoke,West Brom
+12/23/2017,15:00,Swansea,Crystal Palace
+12/23/2017,15:00,West Ham,Newcastle
+12/26/2017,15:00,Bournemouth,West Ham
+12/26/2017,15:00,Chelsea,Brighton
+12/26/2017,15:00,Crystal Palace,Arsenal
+12/26/2017,15:00,Huddersfield,Stoke
+12/26/2017,15:00,Liverpool,Swansea
+12/26/2017,15:00,Man Utd,Burnley
+12/26/2017,15:00,Newcastle,Man City
+12/26/2017,15:00,Tottenham,Southampton
+12/26/2017,15:00,Watford,Leicester
+12/26/2017,15:00,West Brom,Everton
+12/30/2017,15:00,Bournemouth,Everton
+12/30/2017,15:00,Chelsea,Stoke
+12/30/2017,15:00,Crystal Palace,Man City
+12/30/2017,15:00,Huddersfield,Burnley
+12/30/2017,15:00,Liverpool,Leicester
+12/30/2017,15:00,Man Utd,Southampton
+12/30/2017,15:00,Newcastle,Brighton
+12/30/2017,15:00,Tottenham,West Ham
+12/30/2017,15:00,Watford,Swansea
+12/30/2017,15:00,West Brom,Arsenal
+1/1/2018,15:00,Arsenal,Chelsea
+1/1/2018,15:00,Brighton,Bournemouth
+1/1/2018,15:00,Burnley,Liverpool
+1/1/2018,15:00,Everton,Man Utd
+1/1/2018,15:00,Leicester,Huddersfield
+1/1/2018,15:00,Man City,Watford
+1/1/2018,15:00,Southampton,Crystal Palace
+1/1/2018,15:00,Stoke,Newcastle
+1/1/2018,15:00,Swansea,Tottenham
+1/1/2018,15:00,West Ham,West Brom
+1/13/2018,15:00,Bournemouth,Arsenal
+1/13/2018,15:00,Chelsea,Leicester
+1/13/2018,15:00,Crystal Palace,Burnley
+1/13/2018,15:00,Huddersfield,West Ham
+1/13/2018,15:00,Liverpool,Man City
+1/13/2018,15:00,Man Utd,Stoke
+1/13/2018,15:00,Newcastle,Swansea
+1/13/2018,15:00,Tottenham,Everton
+1/13/2018,15:00,Watford,Southampton
+1/13/2018,15:00,West Brom,Brighton
+1/20/2018,15:00,Arsenal,Crystal Palace
+1/20/2018,15:00,Brighton,Chelsea
+1/20/2018,15:00,Burnley,Man Utd
+1/20/2018,15:00,Everton,West Brom
+1/20/2018,15:00,Leicester,Watford
+1/20/2018,15:00,Man City,Newcastle
+1/20/2018,15:00,Southampton,Tottenham
+1/20/2018,15:00,Stoke,Huddersfield
+1/20/2018,15:00,Swansea,Liverpool
+1/20/2018,15:00,West Ham,Bournemouth
+1/30/2018,19:45,Huddersfield,Liverpool
+1/30/2018,19:45,Swansea,Arsenal
+1/30/2018,19:45,West Ham,Crystal Palace
+1/31/2018,19:45,Chelsea,Bournemouth
+1/31/2018,19:45,Everton,Leicester
+1/31/2018,19:45,Newcastle,Burnley
+1/31/2018,19:45,Southampton,Brighton
+1/31/2018,20:00,Man City,West Brom
+1/31/2018,20:00,Stoke,Watford
+1/31/2018,20:00,Tottenham,Man Utd
+2/3/2018,15:00,Arsenal,Everton
+2/3/2018,15:00,Bournemouth,Stoke
+2/3/2018,15:00,Brighton,West Ham
+2/3/2018,15:00,Burnley,Man City
+2/3/2018,15:00,Crystal Palace,Newcastle
+2/3/2018,15:00,Leicester,Swansea
+2/3/2018,15:00,Liverpool,Tottenham
+2/3/2018,15:00,Man Utd,Huddersfield
+2/3/2018,15:00,Watford,Chelsea
+2/3/2018,15:00,West Brom,Southampton
+2/10/2018,15:00,Chelsea,West Brom
+2/10/2018,15:00,Everton,Crystal Palace
+2/10/2018,15:00,Huddersfield,Bournemouth
+2/10/2018,15:00,Man City,Leicester
+2/10/2018,15:00,Newcastle,Man Utd
+2/10/2018,15:00,Southampton,Liverpool
+2/10/2018,15:00,Stoke,Brighton
+2/10/2018,15:00,Swansea,Burnley
+2/10/2018,15:00,Tottenham,Arsenal
+2/10/2018,15:00,West Ham,Watford
+2/24/2018,15:00,Arsenal,Man City
+2/24/2018,15:00,Bournemouth,Newcastle
+2/24/2018,15:00,Brighton,Swansea
+2/24/2018,15:00,Burnley,Southampton
+2/24/2018,15:00,Crystal Palace,Tottenham
+2/24/2018,15:00,Leicester,Stoke
+2/24/2018,15:00,Liverpool,West Ham
+2/24/2018,15:00,Man Utd,Chelsea
+2/24/2018,15:00,Watford,Everton
+2/24/2018,15:00,West Brom,Huddersfield
+3/3/2018,15:00,Brighton,Arsenal
+3/3/2018,15:00,Burnley,Everton
+3/3/2018,15:00,Crystal Palace,Man Utd
+3/3/2018,15:00,Leicester,Bournemouth
+3/3/2018,15:00,Liverpool,Newcastle
+3/3/2018,15:00,Man City,Chelsea
+3/3/2018,15:00,Southampton,Stoke
+3/3/2018,15:00,Swansea,West Ham
+3/3/2018,15:00,Tottenham,Huddersfield
+3/3/2018,15:00,Watford,West Brom
+3/10/2018,15:00,Arsenal,Watford
+3/10/2018,15:00,Bournemouth,Tottenham
+3/10/2018,15:00,Chelsea,Crystal Palace
+3/10/2018,15:00,Everton,Brighton
+3/10/2018,15:00,Huddersfield,Swansea
+3/10/2018,15:00,Man Utd,Liverpool
+3/10/2018,15:00,Newcastle,Southampton
+3/10/2018,15:00,Stoke,Man City
+3/10/2018,15:00,West Brom,Leicester
+3/10/2018,15:00,West Ham,Burnley
+3/17/2018,15:00,Bournemouth,West Brom
+3/17/2018,15:00,Burnley,Chelsea
+3/17/2018,15:00,Huddersfield,Crystal Palace
+3/17/2018,15:00,Leicester,Arsenal
+3/17/2018,15:00,Liverpool,Watford
+3/17/2018,15:00,Man City,Brighton
+3/17/2018,15:00,Stoke,Everton
+3/17/2018,15:00,Swansea,Southampton
+3/17/2018,15:00,Tottenham,Newcastle
+3/17/2018,15:00,West Ham,Man Utd
+3/31/2018,15:00,Arsenal,Stoke
+3/31/2018,15:00,Brighton,Leicester
+3/31/2018,15:00,Chelsea,Tottenham
+3/31/2018,15:00,Crystal Palace,Liverpool
+3/31/2018,15:00,Everton,Man City
+3/31/2018,15:00,Man Utd,Swansea
+3/31/2018,15:00,Newcastle,Huddersfield
+3/31/2018,15:00,Watford,Bournemouth
+3/31/2018,15:00,West Brom,Burnley
+3/31/2018,15:00,West Ham,Southampton
+4/7/2018,15:00,Arsenal,Southampton
+4/7/2018,15:00,Bournemouth,Crystal Palace
+4/7/2018,15:00,Brighton,Huddersfield
+4/7/2018,15:00,Chelsea,West Ham
+4/7/2018,15:00,Everton,Liverpool
+4/7/2018,15:00,Leicester,Newcastle
+4/7/2018,15:00,Man City,Man Utd
+4/7/2018,15:00,Stoke,Tottenham
+4/7/2018,15:00,Watford,Burnley
+4/7/2018,15:00,West Brom,Swansea
+4/14/2018,15:00,Burnley,Leicester
+4/14/2018,15:00,Crystal Palace,Brighton
+4/14/2018,15:00,Huddersfield,Watford
+4/14/2018,15:00,Liverpool,Bournemouth
+4/14/2018,15:00,Man Utd,West Brom
+4/14/2018,15:00,Newcastle,Arsenal
+4/14/2018,15:00,Southampton,Chelsea
+4/14/2018,15:00,Swansea,Everton
+4/14/2018,15:00,Tottenham,Man City
+4/14/2018,15:00,West Ham,Stoke
+4/21/2018,15:00,Arsenal,West Ham
+4/21/2018,15:00,Bournemouth,Man Utd
+4/21/2018,15:00,Brighton,Tottenham
+4/21/2018,15:00,Chelsea,Huddersfield
+4/21/2018,15:00,Everton,Newcastle
+4/21/2018,15:00,Leicester,Southampton
+4/21/2018,15:00,Man City,Swansea
+4/21/2018,15:00,Stoke,Burnley
+4/21/2018,15:00,Watford,Crystal Palace
+4/21/2018,15:00,West Brom,Liverpool
+4/28/2018,15:00,Burnley,Brighton
+4/28/2018,15:00,Crystal Palace,Leicester
+4/28/2018,15:00,Huddersfield,Everton
+4/28/2018,15:00,Liverpool,Stoke
+4/28/2018,15:00,Man Utd,Arsenal
+4/28/2018,15:00,Newcastle,West Brom
+4/28/2018,15:00,Southampton,Bournemouth
+4/28/2018,15:00,Swansea,Chelsea
+4/28/2018,15:00,Tottenham,Watford
+4/28/2018,15:00,West Ham,Man City
+5/5/2018,15:00,Arsenal,Burnley
+5/5/2018,15:00,Bournemouth,Swansea
+5/5/2018,15:00,Brighton,Man Utd
+5/5/2018,15:00,Chelsea,Liverpool
+5/5/2018,15:00,Everton,Southampton
+5/5/2018,15:00,Leicester,West Ham
+5/5/2018,15:00,Man City,Huddersfield
+5/5/2018,15:00,Stoke,Crystal Palace
+5/5/2018,15:00,Watford,Newcastle
+5/5/2018,15:00,West Brom,Tottenham
+5/13/2018,15:00,Burnley,Bournemouth
+5/13/2018,15:00,Crystal Palace,West Brom
+5/13/2018,15:00,Huddersfield,Arsenal
+5/13/2018,15:00,Liverpool,Brighton
+5/13/2018,15:00,Man Utd,Watford
+5/13/2018,15:00,Newcastle,Chelsea
+5/13/2018,15:00,Southampton,Man City
+5/13/2018,15:00,Swansea,Stoke
+5/13/2018,15:00,Tottenham,Leicester
+5/13/2018,15:00,West Ham,Everton
